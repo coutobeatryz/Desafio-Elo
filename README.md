@@ -1,7 +1,7 @@
-# Desafio-Elo
+# Desafio Elo
 Com o atual crescimento da companhia, nos deparamos com a necessidade de auditar as licenças de softwares da empresa, com o objetivo de entender quais colaboradores realmente têm acesso ao sistema e o utiliza de forma recorrente, a fim de ceder licenças apenas para quem de fato o utiliza.
 
-#O projeto:
+# O projeto:
 Desenvolver um código em python para encontrar todos os usuários que estão ativos por três dias consecutivos, baseado nos dados que estão na tabela. Marque o user_id que ficou ativo por três dias consecutivos, de acordo com o resultado do seu código.
 
 | date       | account_id | user_id |
